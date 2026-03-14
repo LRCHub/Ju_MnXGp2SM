@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "海を見ていた午後",
+  "base_artist": "Yumi Arai",
+  "createdAt": "2026-03-14T06:43:32.257897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "Hi-Fi Set",
+      "has_synced": true,
+      "path": "select/01_海を見ていた午後_Hi-Fi_Set.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/02_海を見ていた午後_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "Junko Yamamoto",
+      "has_synced": true,
+      "path": "select/03_海を見ていた午後_Junko_Yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/04_海を見ていた午後_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/05_海を見ていた午後_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "海を見ていた午後 - 2022 mix",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/06_海を見ていた午後_-_2022_mix_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "松任谷 由実 (Yumi Matsutoya)",
+      "has_synced": true,
+      "path": "select/07_海を見ていた午後_松任谷_由実_(Yumi_Matsutoya).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/08_海を見ていた午後_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "海を見ていた午後",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/09_海を見ていた午後_JUJU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海を見ていた午後",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_01_海を見ていた午後_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "海を見ていた午後",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_02_海を見ていた午後_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "海を見ていた午後",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_03_海を見ていた午後_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "海を見ていた午後",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_04_海を見ていた午後_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "海を見ていた午後 (2022 mix)",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_05_海を見ていた午後_(2022_mix)_荒井_由実.txt"
+    }
+  ]
+}
